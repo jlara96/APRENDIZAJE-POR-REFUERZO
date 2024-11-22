@@ -1,4 +1,4 @@
-# Aprendizaje por Refuerzo (Módulo 2.883)
+# Aprendizaje por Refuerzo
 
 Este repositorio contiene las Pruebas de Evaluación Continua (PECs) y ejercicios prácticos del curso de **Aprendizaje por Refuerzo**. Los trabajos han sido realizados y entregados en el marco del módulo 2.883 de la formación.
 
